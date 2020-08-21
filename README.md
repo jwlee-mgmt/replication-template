@@ -1,6 +1,14 @@
-# Replication template
+
+
+# Jung's project
+
+This is brokerag burnout project.
+
+
+# Repli template
 
 This is a template you can use for your final projects (as well other projects where you need to post replication code.) Fill in each section with information on your own project.
+
 
 ## Short Description
 
